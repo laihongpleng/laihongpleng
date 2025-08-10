@@ -37,15 +37,24 @@ Here are some certificates I’ve earned:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laihongpleng&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=laihongpleng&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laihongpleng&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laihongpleng&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=laihongpleng&theme=highcontrast&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laihongpleng&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laihongpleng&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=laihongpleng&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
