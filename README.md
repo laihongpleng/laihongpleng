@@ -2,18 +2,17 @@
 
 <!--
 **laihongpleng/laihongpleng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **MY school's final Project BookStore online shope** and **improving myself**
+- 🌱 I’m currently learning **Laravel and PHP at ETEC**
+- 👯 I’m looking to collaborate on **Fronted development**
+- 🤔 I’m looking for help find **Internship(UX/UI,Frontend,Backend,Database)**
+- 💬 Ask me about **Personal Development**
+- 📫 How to reach me: **laihongpleng@gmail.com**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I love watching Kdrama,Cdrama,America drama.I'm kinda a bit shy person and have a hard time start the conversation,but if you talk to me i will happily have a conversation with.I'm happily to learn anything new and if anyone feel sad need someone to talk to, I'm here for you and never judge you.
+
 
 
 ## 🌐 Socials:
