@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on **MY school's final Project BookStore online shope** and **improving myself**
-- 🌱 I’m currently learning **Laravel and PHP at ETEC**
+- 🌱 I’m currently learning **Laravel and PHP+ajax at ETEC**
 - 👯 I’m looking to collaborate on **Fronted development**
 - 🤔 I’m seeking internship opportunities in **UX/UI Design, Frontend Development, Backend Development, or Database Management**
 - 💬 Ask me about **Personal Development**
