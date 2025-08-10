@@ -13,7 +13,9 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact:**I love watching Kdramas, Cdramas, and American dramas. I’m a bit shy and sometimes find it hard to start a conversation, but if you talk to me, I’ll happily chat with you. I’m always excited to learn new things, and if anyone feels sad or needs someone to talk to, I’m here for you no judgment, just support.**
 
-
+[![](https://visitcount.itsvg.in/api?id=laihongpleng&icon=0&color=FF0000)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=laihongpleng&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laihongpleng&label=Profile%20views&color=0e75b6&style=flat" alt="laihongpleng" /> </p>
 
 
 ## 🌐 Socials:
@@ -36,6 +38,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=laihongpleng&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=laihongpleng&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
