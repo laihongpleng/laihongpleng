@@ -11,7 +11,8 @@
 - 💬 Ask me about **Personal Development**
 - 📫 How to reach me: **laihongpleng@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love watching Kdrama,Cdrama,America drama.I'm kinda a bit shy person and have a hard time start the conversation,but if you talk to me i will happily have a conversation with.I'm happily to learn anything new and if anyone feel sad need someone to talk to, I'm here for you and never judge you.
+- ⚡ Fun fact:**I love watching Kdramas, Cdramas, and American dramas. I’m a bit shy and sometimes find it hard to start a conversation, but if you talk to me, I’ll happily chat with you. I’m always excited to learn new things, and if anyone feels sad or needs someone to talk to, I’m here for you no judgment, just support.**
+
 
 
 
