@@ -34,9 +34,10 @@ Here are some certificates I’ve earned:
  <p align="center"> <img src="Certificate/C_C++.jpg" alt="C C++ Certificate" width="300" />
   <img src="Certificate/Frontend.jpg" alt="Frontend Certificate" width="300" />
 </p>
+<p align="center"><img src="Certificate/php.jpg" alt="php Certificate" width="300" /></p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub States:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laihongpleng&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
